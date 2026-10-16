@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer energy circle arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M 34,70 A 28,28 0 1,1 74,70" />
+    <!-- Terminal Prompt bracket '>' -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#34D399"
+        android:strokeWidth="4.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 37,42 L 48,50 L 37,58" />
+    <!-- Terminal Cursor underscore '_' -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#34D399"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 52,58 L 62,58" />
+    <!-- High Performance Lightning Bolt -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 68,34 L 56,49 L 64,49 L 58,66 L 76,46 L 67,46 Z" />
+</vector>

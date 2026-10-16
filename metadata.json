@@ -1,0 +1,6 @@
+{
+  "name": "SysOpt",
+  "description": "System optimizer with Doze battery saver, AOT compilation, and ADB shell execution manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
